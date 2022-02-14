@@ -1,0 +1,17 @@
+body{
+  width:100%;
+}
+
+.clr{
+  clear:both;
+  width:100%;
+}
+
+a{
+  text-decoration: none;
+}
+
+
+.testPopUpMasque{
+  display: none;
+}
